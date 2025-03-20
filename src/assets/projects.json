@@ -1,0 +1,20 @@
+[
+  {
+    "title": "American Airlines Fighter",
+    "imgsrc": "https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256",
+    "desc": "A silly shoot 'em up style game made in a collaborative effort between me and my friend in freshman year.",
+    "link": "https://replit.com/@wansh82/shmup-game?v=1"
+  },
+  {
+    "title": "Sly Barry's Libraries",
+    "imgsrc": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-512.png",
+    "desc": "A group project to create a website that makes queries out of a database from NYC open data. I've made most of my contributions in javascript.",
+    "link": "https://replit.com/@BRANDONLIN10/Project-Sly-Barrys-Libraries#index.html"
+  },
+  {
+    "title": "Java Encryption Project",
+    "imgsrc": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+    "desc": "Two person project between me and my classmate. Programmed a java function that takes a plain text input string and returns and encoded output string. Also does the opposite by taking an encoded string and returning it in plain text.",
+    "link": "https://github.com/wanshm/Encryption-Project"
+  }
+]
